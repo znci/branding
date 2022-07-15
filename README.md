@@ -17,6 +17,6 @@ Purely for the reason our websites always looking fresh and the same!
 
 `defer` is used for when someone puts the javascript tag at the top of the file, it will load after everything else.
 
-# Components
+# Docs
 
-soon:tm:
+[Click here for Docs](https://github.com/znci/branding/tree/main/docs)
