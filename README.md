@@ -12,5 +12,5 @@ Purely for the reason our websites always looking fresh and the same!
 ### JS Usage
 
 ```
-<link rel="stylesheet" href="https://branding.znci.dev/js/index.css" crossorigin="anonymous">
+<link rel="stylesheet" href="https://branding.znci.dev/js/index.js" crossorigin="anonymous">
 ```
