@@ -52,7 +52,7 @@
 	--background-color: #082032;
 	--navbar-color: #2C394B;
 	--button-default-color: #00a3ee;
-	--button-border-radius: 20px;
+	--button-border-radius: 5px;
 	--default-padding: 0;
 	--default-margin: 0;
 	--scroll: smooth;
@@ -135,3 +135,49 @@ button {
 .alc-ce {
 	align-content: center;
 }
+.absolute {
+	position: absolute;
+}
+.translate-center {
+	transform: translate(-50%,50%);
+}
+.top-100 {top: 100%;}
+.top-90 {top: 90%;}
+.top-80 {top: 80%;}
+.top-70 {top: 70%;}
+.top-60 {top: 60%;}
+.top-50 {top: 50%;}
+.top-40 {top: 40%;}
+.top-30 {top: 30%;}
+.top-20 {top: 20%;}
+.top-10 {top: 10%;}
+.left-100 {left: 100%;}
+.left-90 {left: 90%;}
+.left-80 {left: 80%;}
+.left-70 {left: 70%;}
+.left-60 {left: 60%;}
+.left-50 {left: 50%;}
+.left-40 {left: 40%;}
+.left-30 {left: 30%;}
+.left-20 {left: 20%;}
+.left-10 {left: 10%;}
+.right-100 {right: 100%;}
+.right-90 {right: 90%;}
+.right-80 {right: 80%;}
+.right-70 {right: 70%;}
+.right-60 {right: 60%;}
+.right-50 {right: 50%;}
+.right-40 {right: 40%;}
+.right-30 {right: 30%;}
+.right-20 {right: 20%;}
+.right-10 {right: 10%;}
+.bottom-100 {bottom: 100%;}
+.bottom-90 {bottom: 90%;}
+.bottom-80 {bottom: 80%;}
+.bottom-70 {bottom: 70%;}
+.bottom-60 {bottom: 60%;}
+.bottom-50 {bottom: 50%;}
+.bottom-40 {bottom: 40%;}
+.bottom-30 {bottom: 30%;}
+.bottom-20 {bottom: 20%;}
+.bottom-10 {bottom: 10%;}
