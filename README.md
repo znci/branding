@@ -12,5 +12,11 @@ Purely for the reason our websites always looking fresh and the same!
 ### JS Usage
 
 ```
-<link rel="stylesheet" href="https://branding.znci.dev/js/index.js" crossorigin="anonymous">
+<script src="https://branding.znci.dev/js/index.js" crossorigin="anonymous" defer></script>
 ```
+
+`defer` is used for when someone puts the javascript tag at the top of the file, it will load after everything else.
+
+# Docs
+
+[Click here for Docs](https://github.com/znci/branding/tree/main/docs)
