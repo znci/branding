@@ -221,3 +221,7 @@ button {
 .margin-90 {margin:90%}
 .margin-95 {margin:95%}
 .margin-100 {margin:100%}
+
+.bg-white {
+	background-color: #fff;
+}
