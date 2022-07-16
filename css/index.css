@@ -225,3 +225,27 @@ button {
 .bg-white {
 	background-color: #fff;
 }
+
+
+.reaction-emoji-1 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px -72px; width: 72px; height: 72px}
+.reaction-emoji-2 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 2); width: 72px; height: 72px}
+.reaction-emoji-3 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 3); width: 72px; height: 72px}
+.reaction-emoji-4 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 4); width: 72px; height: 72px}
+.reaction-emoji-5 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 5); width: 72px; height: 72px}
+.reaction-emoji-6 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 6); width: 72px; height: 72px}
+.reaction-emoji-7 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 7); width: 72px; height: 72px}
+.reaction-emoji-8 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 8); width: 72px; height: 72px}
+.reaction-emoji-9 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 9); width: 72px; height: 72px}
+.reaction-emoji-10 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 10); width: 72px; height: 72px}
+.reaction-emoji-11 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 11); width: 72px; height: 72px}
+.reaction-emoji-12 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 12); width: 72px; height: 72px}
+.reaction-emoji-13 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 13); width: 72px; height: 72px}
+.reaction-emoji-14 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 14); width: 72px; height: 72px}
+.reaction-emoji-15 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 15); width: 72px; height: 72px}
+.reaction-emoji-16 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 16); width: 72px; height: 72px}
+.reaction-emoji-17 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 17); width: 72px; height: 72px}
+.reaction-emoji-18 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 18); width: 72px; height: 72px}
+.reaction-emoji-19 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 19); width: 72px; height: 72px}
+.reaction-emoji-20 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 20); width: 72px; height: 72px}
+.reaction-emoji-21 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 21); width: 72px; height: 72px}
+.reaction-emoji-22 {background: url(https://branding.znci.dev/assets/emoji-sprite-sheet.png) 0px calc(-72px * 22); width: 72px; height: 72px}
